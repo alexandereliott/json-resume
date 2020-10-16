@@ -1,0 +1,369 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Jay-Alexander Elliot",
+    "label": "Security Administrator at Tigo Health",
+    "image": "",
+    "email": "business@jsecurity.top",
+    "phone": "4086561085",
+    "url": "",
+    "summary": "Self-taught IT Administrator, Programmer with expertise in security and nine months of professional experience in an enterprise environment. Quick learner, has stayed on top of new and developing technologies and readily jumps onto new technologies which appears promising. Experienced with virtualization technologies, regularly uses Virtualbox, Vmware, and Parallels at home and has\nused Vcenter in a professional setting. Was tasked with researching new technologies for adoption at Onramp Bioinformatics; Experience with setting up, configuring, and using all enterprise cloud monitoring solutions. Have had docker images pushed to production.",
+    "location": {
+      "address": "San Francisco Bay Area",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "6f5618d8f3d2979a63d29fc03826690c",
+        "url": "https://www.linkedin.com/in/6f5618d8f3d2979a63d29fc03826690c/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Tigo Health",
+      "endDate": "",
+      "highlights": [],
+      "position": "Security Administrator",
+      "startDate": "2019-09-30",
+      "url": ""
+    },
+    {
+      "name": "Tigo Health",
+      "endDate": "",
+      "highlights": [],
+      "position": "Compliance Advisor",
+      "startDate": "2019-09-30",
+      "summary": "I provide advice and assistance to Tigo Health so they stay compliant with Hipaa regulations.",
+      "url": ""
+    },
+    {
+      "name": "IT self study",
+      "endDate": "",
+      "highlights": [],
+      "position": "Student",
+      "startDate": "2019-05-31",
+      "url": ""
+    },
+    {
+      "name": "LA Fitness",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "position": "Assistant Manager",
+      "startDate": "2019-08-31",
+      "url": ""
+    },
+    {
+      "name": "King Star Computer",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "position": "Technical Sales Representative",
+      "startDate": "2019-04-30",
+      "url": ""
+    },
+    {
+      "name": "MarketSource Inc.",
+      "endDate": "2019-01-31",
+      "highlights": [],
+      "position": "Salesperson",
+      "startDate": "2018-08-31",
+      "summary": "At Target Tech Marketsource, we sold prepaid and postpaid phones, and digital service plans. We also provided technical assistance to customers who have had issues with their purchases.",
+      "url": ""
+    },
+    {
+      "name": "Staples",
+      "endDate": "2019-01-31",
+      "highlights": [],
+      "position": "Technician - Cashier",
+      "startDate": "2017-08-31",
+      "summary": "Assisted customers with POS transactions, provided advice and assistance to customers looking to purchase tech, maintained our store's metrics by selling extended warranty packages, store credit cards, and accessories, repaired phones and computers.",
+      "url": ""
+    },
+    {
+      "name": "......",
+      "endDate": "2017-08-31",
+      "highlights": [],
+      "position": "IT Self Study",
+      "startDate": "2017-07-31",
+      "summary": "Compiled custom linux kernels.\nLearned to use Hashicorp Terraform to spin up websites created from data scraped from websites of interest.\nTaught people how to circumvent internet and government censorship.\nContributed to anticensorship and radio projects.\nUsed docker for web-scraping and archiving projects.",
+      "url": ""
+    },
+    {
+      "name": "OnRamp BioInformatics",
+      "endDate": "2017-07-31",
+      "highlights": [],
+      "position": "IT Specialist",
+      "startDate": "2016-09-30",
+      "summary": "Set Up, configured, and maintained the virtual and hardware infrastructure at Onramp Bioinformatics.\nCreated Docker images for production usage.\nResponsible for researching and adopting technologies for company usage.\nUsed IT monitoring tools to watch out for problems.",
+      "url": ""
+    },
+    {
+      "name": "Lunardi’s Market",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "position": "Bagger",
+      "startDate": "2015-10-31",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Music Venue",
+      "position": "concert help",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "organization": "Thrift Shop",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "organization": "Mission College Infosec Meetup Group",
+      "position": "Coordinator",
+      "url": "https://www.linkedin.com/company/30984",
+      "startDate": "2020-05-31",
+      "endDate": "",
+      "summary": "Organizer for the San Jose/Mission College InfoSec meetup group.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mission College",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "West Valley College",
+      "area": "Computer and Information Sciences, General",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Los Gatos High School",
+      "area": "High School/Secondary Diplomas and Certificates",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtual Private Network (VPN)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HashiCorp Consul",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backup & Recovery Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "tls",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Server Monitoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "mapr",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Citrix XenApp",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware ESX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows 10",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VirtualBox",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux Tools",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Servers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vmware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HashiCorp Vault",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Secure Sockets Layer (SSL)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cryptography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backup Solutions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Nathan B",
+      "reference": "I met Jay Elliot at a BioHacking conference in San Jose, and our first conversation was about security in BioInformatics. \n\nMy most recent request to Jay for technical advice was about how best to go about learning and applying containers to my existing work flows. \n\nJay can sometimes be understated about his accomplishments, but what impressed me most was when he, as a side project, modified the firmware of a software defined radio to detect transmissions from outer space. He did this to distribute entropy to a set of virtual machines in a hypervisor, for secure randomness.\n\nJay is an extremely quick, self-directed learner and problem-solver, especially for technical roles where others depend on his expertise, and he is skilled or conversant on a wide variety of topics in Information Security. I have always enjoyed working with him. "
+    }
+  ],
+  "projects": []
+}
